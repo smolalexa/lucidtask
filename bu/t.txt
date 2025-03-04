@@ -7,3 +7,17 @@ alex@u2410s:~/p/p1$ git push origin HEAD:master
 git add .
 git commit -m 'msg'
 git push
+
+=============
+
+alex@u2410s:~/p/p1$ git push origin HEAD:master
+Enumerating objects: 16, done.
+Counting objects: 100% (16/16), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (9/9), done.
+Writing objects: 100% (9/9), 2.19 KiB | 2.19 MiB/s, done.
+Total 9 (delta 5), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (5/5), completed with 5 local objects.
+To https://github.com/smolalexa/lucidtask.git
+   6bb760d..15bf52b  HEAD -> master
+alex@u2410s:~/p/p1$ 
