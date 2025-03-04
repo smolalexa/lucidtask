@@ -1,3 +1,9 @@
 npm install
   npm run dev
 
+
+alex@u2410s:~/p/p1$ git push origin HEAD:master
+
+git add .
+git commit -m 'msg'
+git push
