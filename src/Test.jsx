@@ -6,6 +6,7 @@ const Test = () => {
     return (
         <>
             <h2>Today is {date}</h2>
+            <h3>Click in the box below to fetch categories</h3>
         </>
     )
 }
