@@ -21,3 +21,66 @@ remote: Resolving deltas: 100% (5/5), completed with 5 local objects.
 To https://github.com/smolalexa/lucidtask.git
    6bb760d..15bf52b  HEAD -> master
 alex@u2410s:~/p/p1$ 
+
+====================
+
+Submission - 
+
+    Github link to lucidtasksubmission@gmail.com
+    Send a Hosted Version from Vercel or a similar hosting services
+
+
+Hello,
+You have 24h hours to complete the task, send whatever you manage to complete.
+The Task:
+Implement the formula input functionality as it is seen in causal.
+
+link to video displaying the UI to implement - link
+
+You must go to causal.app, and edit a formula to see the entire functionality - DO NOT START THE TASK UNTIL YOU DID.  
+
+How to login to causal
+
+    Go to causal
+    Signup for a free trial
+    Assign a new template
+    Open the formula input and play with it to understand it
+
+    Video showing how to do it - link
+
+
+Features :
+
+    managing local state in Zustand 
+
+    manage API state in React Query - Use this endpoint for autocomplete suggestions in React query
+
+    Formula Input Features:
+
+        Supporting operands between tags - (+,-,*,(,),^,/…..)
+
+        Support adding naturally numbers (1,2,3)
+
+        Supporting writing between tags
+
+        Deleting a TAG with backspace
+
+        Autocomplete suggestions - Support autocomplete also after an operand is written
+
+        MANDATORY - Editing in each tag - Add the dropdown attached to the tag, allowing to interact
+         with the dropdown on each tag. 
+
+        Calculating values is a bonus (Assign some dummy variable values and accept the operations). 
+
+Important notes
+
+    We are looking for functionality first!, design is a second priority (but also very important).
+
+
+    You can use whatever libraries and online solutions you find, we encourage you to search for solutions that will help you implement them. 
+
+
+    Hint - Think about what kind of tools coders are using that look similar to this functionality of a hybrid input with autocomplete
+
+
+Good Luck
